@@ -2,7 +2,7 @@
 
 ## The 23 Gang of Four patterns:
 
-**Creational Patterns**
+### Creational Patterns
 
 ---
 
@@ -26,7 +26,7 @@ Singleton
 
 A class of which only a single instance can exist
 
-**Structural Patterns**
+### Structural Patterns
 
 ---
 
@@ -58,7 +58,7 @@ Proxy
 
 An object representing another object
 
-**Behavioral Patterns**
+### Behavioral Patterns
 
 ---
 
