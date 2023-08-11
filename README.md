@@ -1,4 +1,4 @@
-# Design_Patterns_Pythons
+# Design Patterns Pythons
 
 ## 23 Gang of Four patterns:
 
