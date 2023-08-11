@@ -4,6 +4,8 @@
 
 **Creational Patterns**
 
+---
+
 Abstract Factory
 
 Creates an instance of several families of classes
@@ -25,6 +27,8 @@ Singleton
 A class of which only a single instance can exist
 
 **Structural Patterns**
+
+---
 
 Adapter
 
@@ -55,6 +59,9 @@ Proxy
 An object representing another object
 
 **Behavioral Patterns**
+
+---
+
 
 Chain of responsibility.
 
