@@ -62,9 +62,9 @@ A way of passing a request between a chain of objects
 
 Command
 
-Interpreter
-
 Encapsulate a command request as an object
+
+Interpreter
 
 A way to include language elements in a program
 
@@ -78,7 +78,7 @@ Defines simplified communication between classes
 
 Memento
 
-Capture and restore and object‟s internal state
+Capture and restore and object's internal state
 
 Observer
 
@@ -86,7 +86,7 @@ A way of notifying change to a number of classes
 
 State
 
-Alter an object‟s behavior when its state changes
+Alter an object's behavior when its state changes
 
 Strategy
 
