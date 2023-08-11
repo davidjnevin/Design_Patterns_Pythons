@@ -2,7 +2,7 @@
 
 ## 23 Gang of Four patterns:
 
-*Creational Patterns*
+**Creational Patterns**
 
 Abstract Factory
 
@@ -24,7 +24,7 @@ Singleton
 
 A class of which only a single instance can exist
 
-*Structural Patterns*
+**Structural Patterns**
 
 Adapter
 
@@ -52,11 +52,11 @@ A fine-grained instance used for efficient sharing
 
 Proxy
 
-*Behavioral Patterns*
-
 An object representing another object
 
-Chain of Resp.
+**Behavioral Patterns**
+
+Chain of responsibility.
 
 A way of passing a request between a chain of objects
 
