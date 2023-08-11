@@ -1,6 +1,6 @@
 # Design Patterns Pythons
 
-## 23 Gang of Four patterns:
+## The 23 Gang of Four patterns:
 
 **Creational Patterns**
 
@@ -32,7 +32,7 @@ Match interfaces of different classes
 
 Bridge
 
-Separates an object‟s interface from its implementation
+Separates an object's interface from its implementation
 
 Composite
 
